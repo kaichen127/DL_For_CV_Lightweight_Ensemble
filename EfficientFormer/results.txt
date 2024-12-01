@@ -1,3 +1,6 @@
 10 epochs: 82.45%
 30 epochs: 84.22%
 50 epochs: 86.71%
+
+Link to weights:
+https://drive.google.com/drive/folders/1PySjcLIJB0pYXEw0e7IdJY-vXKffRfzy?usp=sharing
